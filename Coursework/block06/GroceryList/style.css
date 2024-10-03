@@ -1,0 +1,17 @@
+.color-box.first {
+    clear: both;
+    width: 150px;      /* Set the width of the box */ 
+    height: 30px;     /* Set the height of the box */ 
+    background-color: #b9beff; /* Set the background color (e.g., a shade of blue) */ 
+    border: 3px solid #000000; /* Optional: add a border */ 
+    text-align: center;
+} 
+.color-box.last { 
+    width: 130px;      /* Set the width of the box */ 
+    height: 100px;     /* Set the height of the box */ 
+    background-color: #c0c0c0; /* Set the background color (e.g., a shade of blue) */ 
+    border: 2px solid #000000; /* Optional: add a border */;
+    text-align: left;
+    padding: 10px;
+} 
+
