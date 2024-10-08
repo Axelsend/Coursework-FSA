@@ -1,3 +1,3 @@
 # Coursework-FSA
 
-Denver's Fullstack COursework!
+Denver's Fullstack Coursework!
