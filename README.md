@@ -4,7 +4,7 @@ Denver Axelsen's FSA Repository
 
 - This repository contains all of my Fullstack Academy Coursework throughout the course.
 
-- The main project to date is the "Personal Website" project, foudn in the "Personal_Site" folder.
+- The main project to date is the "Personal Website" project, found in the "Personal_Site" folder.
 
 - This project is a website to showcase myself using HTML, CSS, and JavaScript languages.
 
