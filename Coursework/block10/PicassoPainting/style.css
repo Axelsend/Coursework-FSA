@@ -1,0 +1,122 @@
+.box1 {
+    display: grid;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left:10%;
+    margin-top: 5%;
+    background-color: aqua;
+}
+
+.box2 {
+    display: grid;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left:35%;
+    margin-top: 5%;
+    background-color: green;
+}
+
+.box3 {
+    display: grid;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 60%;
+    margin-top: 5%;
+    background-color: pink;
+}
+
+.circle {
+    border-radius: 50%;
+    display: grid;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left:35%;
+    margin-top: 17%;
+    background-color: purple;
+    text-align: center;
+}
+
+.text-box h3 {
+    font-size: 2vw;
+    color: black;
+    display: flex;
+    max-width: 64%;
+    margin-left: 18vw;
+    margin-top: 45%;
+    display: flex;
+    position: absolute;
+}
+
+.text-box p1 {
+    font-size: 1.5vw;
+    display: flex;
+    position: absolute;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    margin-left: 10vw;
+    margin-top: 50%;
+}
+
+.text-box p2 {
+    font-size: 1.5vw;
+    display: flex;
+    position: absolute;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    margin-left: 50vw;
+    margin-top: 50%;
+}
+
+.text-box div1 input{
+
+    display: flex;
+    position: absolute;
+    margin-left: 16vw;
+    margin-top: 49.8%;
+    width: 30vw;
+    height: 2vw;
+}
+
+.text-box div2 input{
+
+    display: flex;
+    position: absolute;
+    margin-left: 56vw;
+    margin-top: 49.8%;
+    width: 30vw;
+    height: 2vw;
+}
+
+.text-box div3 input{
+
+    display: flex;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 55%;
+    width: 15%;
+    height: 3vw;
+    font-size: 50px;
+    color: transparent;
+}
+
+.text-box div3 p{
+
+    display: flex;
+    position: absolute;
+    margin-left: 41.5%;
+    margin-top: 54.8%;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text-box {
+    text-align: center;
+    max-width: 100vw;
+}
